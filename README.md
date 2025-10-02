@@ -19,9 +19,12 @@ It is a single place to showcase what I write and the working code behind tutori
 
 ## Published posts
 
-1. [Why Every Developer Should Start Writing Blogs](https://your-hashnode-link) - Short summary: Why writing helps you learn and build a presence.  
-   *(Replace the link with your Hashnode URL after publishing)*
-
+1. Why Blogs?
+✨ Sharing what you learn is one of the best ways to grow as a developer:  https://smjunaid-dev.hashnode.dev/why-blogs
+2. The Ultimate Web Developer Skills Checklist for Beginners : https://smjunaid-dev.hashnode.dev/the-ultimate-web-developer-skills-checklist-for-beginners
+3. Turning a Web App Idea into Reality: My Development Workflow
+Turning Thoughts into Code: A Developer’s Workflow: https://smjunaid-dev.hashnode.dev/turning-a-web-app-idea-into-reality-my-development-workflow
+4. A candid look at the challenges, mistakes, and wins while building my first project: https://smjunaid-dev.hashnode.dev/a-candid-look-at-the-challenges-mistakes-and-wins-while-building-my-first-project
 ---
 
 ## Post template
@@ -29,19 +32,9 @@ It is a single place to showcase what I write and the working code behind tutori
 Copy this template into `drafts/` to start a new post:
 
 ```md
-# Title of your post
 
-**Date:** 2025-10-02  
 **Tags:** web-development, blogging, learning
 
 Short summary: One-line description of the post.
 
 ---
-
-Write your content here. Use headings, code blocks, and images from `assets/images/`.
-
-Example code block:
-
-\`\`\`js
-console.log('Hello from the post example');
-\`\`\`
