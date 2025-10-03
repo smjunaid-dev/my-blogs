@@ -30,8 +30,7 @@ Turning Thoughts into Code: A Developer’s Workflow: https://smjunaid-dev.hashn
 
 ## Post template
 
-Copy this template into `drafts/` to start a new post:
-
+You can Use this to Start a new Post/Blog
 
 ```md
 
