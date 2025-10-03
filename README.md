@@ -30,7 +30,7 @@ Turning Thoughts into Code: A Developer’s Workflow: https://smjunaid-dev.hashn
 
 ## Post template
 
-You can Use this to Start a new Post/Blog
+You can Use this to Start a new Post/Blog.
 
 ```md
 
