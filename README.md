@@ -32,6 +32,7 @@ Turning Thoughts into Code: A Developer’s Workflow: https://smjunaid-dev.hashn
 
 Copy this template into `drafts/` to start a new post:
 
+
 ```md
 
  #web-development #blogging  #learning
