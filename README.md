@@ -33,7 +33,7 @@ Copy this template into `drafts/` to start a new post:
 
 ```md
 
-**Tags:** web-development, blogging, learning
+ #web-development #blogging  #learning
 
 Short summary: One-line description of the post.
 
