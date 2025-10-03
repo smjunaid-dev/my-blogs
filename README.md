@@ -18,7 +18,7 @@ It is a single place to showcase what I write and the working code behind tutori
 ---
 
 ## Published posts
-## You can go through these , If want can connect to me !
+## You can go through these , If want can connect to me!
 
 1. Why Blogs?
 ✨ Sharing what you learn is one of the best ways to grow as a developer:  https://smjunaid-dev.hashnode.dev/why-blogs
