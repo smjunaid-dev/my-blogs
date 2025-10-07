@@ -3,7 +3,7 @@
 This repository stores my Hashnode blog posts, drafts, images, and code samples.
 It is a single place to showcase what I write and the working code behind tutorials or project write-ups.
 
-**Author:** JUNA
+**Author:** JUNAID
 **Topics:** web development, PHP, JavaScript, AI, learning notes.
 
 ---
