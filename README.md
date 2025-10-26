@@ -5,6 +5,7 @@ It is a single place to showcase what I write and the working code behind tutori
 
 **Author:** JUNAID
 **Topics:** web development, PHP, JavaScript, AI, learning notes.
+**CORE SUBJECTS:** Computer Networks, Operating Systems, DBMS, Machine Learning.
 
 ---
 
