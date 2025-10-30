@@ -15,6 +15,7 @@ It is a single place to showcase what I write and the working code behind tutori
 - `drafts/` - Work-in-progress posts. When ready, move files from `drafts/` to `posts/`.
 - `assets/images/` - Images used by posts (use relative links from your markdown).
 - `code/` - Example projects or code samples referenced in posts.
+  
 ---
 
 ## Published posts
